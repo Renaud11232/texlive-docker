@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:focal
 
 MAINTAINER Renaud Gaspard, <gaspardrenaud@hotmail.com>
 
